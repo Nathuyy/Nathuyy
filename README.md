@@ -1,8 +1,7 @@
-## Oii! Eu sou a Nathália Cericatto
+## Oii! Eu sou a Nathália 
 
   👩‍💻 About me:
-  - 👩‍🎓Cursando Ciência da Computação! **UNIRITTER**(1/8)
-  - ✨Estudando full-stack
+  - 👩‍🎓Cursando Ciência da Computação na **UNIRITTER**
   - 💻Linguagens: Java, JS, HTML, CSS
 
 
