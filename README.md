@@ -3,6 +3,7 @@
   👩‍💻 About me:
   - 👩‍🎓Cursando Ciência da Computação na **UNIRITTER**
   - 💻Linguagens: Java, JS, HTML, CSS
+  - ✨Participando da trilha Dev Full Stack +PraTI!
 
 
 <!---
