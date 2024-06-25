@@ -2,7 +2,7 @@
 
   👩‍💻 About me:
   - 👩‍🎓Cursando Ciência da Computação na **UNIRITTER**
-  - 💻Linguagens: Java, JS, HTML, CSS, Phyton
+  - 💻Linguagens: Java, JS, HTML, CSS, Python
   - ✨Participando da trilha Dev Full Stack +PraTI e Geração Caldeira Phyton!
 
 
