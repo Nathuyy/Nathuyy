@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Ceratti!</h1>
+<h1>Nathuyy!</h1>
 </div>
 <div align="center">    
   <a href="https://github.com/Ceratt1"><img src="https://img.shields.io/badge/-Github-0080FF?style=flat-square&labelColor=0080FF&logo=Github&logoColor=white" alt="Website Badge"/></a>  
@@ -30,13 +30,13 @@ Desenvolvedor web Back-End apaixonado no que faz
 <h3 align="center">:nerd_face: Algumas estatísticas:</h3>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ceratt1&show_icons=true&title_color=0080ff&icon_color=0080ff&count_private=true&theme=tokyonight&locale=pt-PT" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nathuyy&show_icons=true&title_color=0080ff&icon_color=0080ff&count_private=true&theme=tokyonight&locale=pt-PT" />
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceratt1&layout=compact&title_color=0080ff&locale=pt-PT&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathuyy&layout=compact&title_color=0080ff&locale=pt-PT&theme=tokyonight" />
 </div>
 
 
