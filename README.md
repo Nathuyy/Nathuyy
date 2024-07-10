@@ -2,13 +2,13 @@
 <h1>Nathuyy!</h1>
 </div>
 <div align="center">    
-  <a href="https://github.com/Ceratt1"><img src="https://img.shields.io/badge/-Github-0080FF?style=flat-square&labelColor=0080FF&logo=Github&logoColor=white" alt="Website Badge"/></a>  
+  <a href="https://github.com/Nathuyy" alt="Website Badge"/></a>  
 </div>
 
 ---
 
 <h3 align="center">
-Desenvolvedor web Back-End apaixonado no que faz
+Desenvolvedora web!!
 </h3>
 
 <h3 align="center">:building_construction: Linguagens e ferramentas:</h3>
