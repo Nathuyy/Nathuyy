@@ -18,10 +18,8 @@ Desenvolvedor web Back-End apaixonado no que faz
 <a href=""><img src="https://img.icons8.com/windows/30/4caf50/node-js.png" width="30"/></a>
 <a href=""><img src="https://img.icons8.com/fluency/30/visual-studio-code-2019.png" width="30"/></a>
 <a href=""><img src="https://img.icons8.com/ios-filled/30/f4511e/git.png" width="30"/></a>
-<a href=""><img src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000" width="30"/></a>
 <a href=""><img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" width="30"/></a>
-<a href=""><img src="https://img.icons8.com/?size=100&id=63208&format=png&color=000000" width="30"/></a>
-
+<a href=""><img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="30"/></a>
 
 
     
