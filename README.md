@@ -20,6 +20,7 @@ Desenvolvedora web!!
 <a href=""><img src="https://img.icons8.com/ios-filled/30/f4511e/git.png" width="30"/></a>
 <a href=""><img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" width="30"/></a>
 <a href=""><img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="30"/></a>
+<a href=""><img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" width="30"/></a>
 
 
     
